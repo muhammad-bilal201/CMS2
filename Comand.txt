@@ -1,0 +1,15 @@
+ADD
+_________________________________
+
+git add . 
+
+git commit -m "Mess"
+
+git push
+
+
+updated data
+________________________________________
+
+git pull origin main 
+
